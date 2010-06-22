@@ -1,0 +1,19 @@
+#labels Featured,Phase-Support
+= Change Log =
+
+== Future release ==
+
+  * config file support (load/store)
+  * open files from .zip archives
+  * symbian platform launch
+
+== Version 0.0.9 - 0.0.12 ==
+
+  * added "true speed" option (50 Hz, jerky conversion to 60 Hz monitor, but sound looks better)
+  * snapshots (.sna) storing (F2 key)
+  * added file associations (Win/Linux)
+  * added pause/resume function
+  * added icon
+  * added command line options
+  * added about box
+  * bugfix with snapshots loading, .z80 format support
