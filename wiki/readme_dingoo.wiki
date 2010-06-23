@@ -1,0 +1,42 @@
+=Controls=
+
+==Keys in emul==
+  * SELECT    - menu
+  * START     - virtual keys
+  * LT        - reset
+  * RT        - change sound source
+  * DPAD      - joystick
+  * A         - joystick fire
+  * B         - enter
+  * X         - 1
+  * Y         - space
+
+  * SELECT+START – quit
+
+==Keys in virt keys==
+  * A/B       - push key
+  * Y         - toggle key
+  * LT        - caps shift
+  * RT        - symbol shift
+
+==keys in service rom (after reset)==
+  * U        - menu 128
+  * S        - trdos 128
+  * I        - basic 48
+  * ENTER    - max petrov commander
+
+=How to open image=
+
+==tape (tap/tzx/csw)==
+  # press reset
+  # open image in menu
+  # press ‘I’ to enter in basic
+  # type LOAD "" enter in virtual keys
+  # press start tape in menu
+  # choose tape sound source for sound (optional)
+
+==disk (scl/trd)==
+  # press reset
+  # open image in menu
+  # press enter to enter in max petrov commander
+  # select file and press enter
