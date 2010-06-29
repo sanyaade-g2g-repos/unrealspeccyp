@@ -3,6 +3,7 @@
 
 == Future release ==
   * screen flip/rotate option for any lcd controller (dingoo)
+  * .png screenshots
 
 == Version 0.0.13 ==
   * symbian platform launch
