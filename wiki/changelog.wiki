@@ -2,12 +2,14 @@
 = Change Log =
 
 == Future release ==
+  * screen flip/rotate option for any lcd controller (dingoo)
+
+== Version 0.0.13 ==
   * symbian platform launch
   * config file support (load/store)
   * open files from .zip archives
   * 48k option
   * screen & joystick rotate option (symbian)
-  * screen flip/rotate option for any lcd controller (dingoo)
   * bugfix with emulator startup code (now start much faster on symbian & dingoo)
 
 == Version 0.0.9 - 0.0.12 ==
