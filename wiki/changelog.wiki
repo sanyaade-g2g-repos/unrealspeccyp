@@ -2,8 +2,13 @@
 = Change Log =
 
 == Future release ==
-  * screen flip/rotate option for any lcd controller (dingoo)
+  * full screen mode
+  * 300% window size option
+  * correct aspect ratio
+  * filtering when window size not multiple of original
   * .png screenshots
+  * new command line options
+  * screen flip/rotate option for any lcd controller (dingoo)
 
 == Version 0.0.13 ==
   * symbian platform launch
