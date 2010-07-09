@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <Module>
-  <ModulePrefs title="hello world example" /> 
+  <ModulePrefs title="globe gadget" /> 
   <Content type="html">
     <![CDATA[
       <script type="text/javascript" src="http://jd.revolvermaps.com/r.js"></script><script type="text/javascript">rm_f1st('0','256','true','false','000000','3HAlSfTMIKz','true','ffffff');</script><noscript><applet codebase="http://rd.revolvermaps.com/j" code="core.RE" width="256" height="256" archive="g.jar"><param name="cabbase" value="g.cab" /><param name="r" value="true" /><param name="n" value="false" /><param name="i" value="3HAlSfTMIKz" /><param name="m" value="0" /><param name="s" value="256" /><param name="c" value="ffffff" /><param name="v" value="true" /><param name="b" value="000000" /><param name="rfc" value="true" /></applet></noscript>
