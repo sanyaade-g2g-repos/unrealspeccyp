@@ -2,3 +2,9 @@
 = Screenshots =
 
 || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/eyeache2.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/navyseals.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/rage.png] ||
+
+|| [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/academy.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/elite.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/exolon.png] ||
+
+|| [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/af2.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/batty.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/r-type.png] ||
+
+|| [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/venom.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/hongkong.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/zx-f4.png] ||
