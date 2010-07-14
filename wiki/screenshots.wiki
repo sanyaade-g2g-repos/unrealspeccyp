@@ -2,11 +2,16 @@
 = Screenshots =
 
 || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/eyeache2.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/navyseals.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/rage.png] ||
+|| Eye Ache 2 (demo) || Navy Seals (intro) || Rage (demo) ||
 
 || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/academy.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/elite.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/exolon.png] ||
+|| Academy (Tau Ceti 2) || ELITE (joystick club) || Exolon ||
 
 || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/af2.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/batty.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/r-type.png] ||
+|| Action Force 2 || Batty || R-Type ||
 
 || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/venom.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/hongkong.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/zx-f4.png] ||
+|| Venom strikes back || Hong Kong || ZX-Format 4 ||
 
 || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/bomber.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/saboteur-2.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/ln-2.png] ||
+|| Bomber || Saboteur 2 || Last Nynja 2 ||
