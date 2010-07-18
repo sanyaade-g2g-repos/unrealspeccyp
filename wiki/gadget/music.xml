@@ -3,7 +3,7 @@
   <ModulePrefs title="music gadget" /> 
   <Content type="html">
     <![CDATA[
-      <object type="application/x-shockwave-flash" data="http://unrealspeccyp.googlecode.com/svn/wiki/music/ump3player_500x70.swf" height="74" width="500"><param name="wmode" VALUE="transparent" /><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="movie" value="http://unrealspeccyp.googlecode.com/svn/wiki/music/ump3player_500x70.swf" /><param name="FlashVars" value="way=http://unrealspeccyp.googlecode.com/svn/wiki/music/Boulder%20Dash%20theme.mp3&amp;swf=http://unrealspeccyp.googlecode.com/svn/wiki/music/ump3player_500x70.swf&amp;w=500&amp;h=74&amp;time_seconds=0&amp;autoplay=1&amp;q=&amp;skin=http://unrealspeccyp.googlecode.com/svn/wiki/music/skin_aluminium1.swf&amp;volume=70&amp;comment=" /></object>
+      <object type="application/x-shockwave-flash" data="http://unrealspeccyp.googlecode.com/svn/wiki/music/ump3player_500x70.swf" height="74" width="500"><param name="wmode" VALUE="transparent" /><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="movie" value="http://unrealspeccyp.googlecode.com/svn/wiki/music/ump3player_500x70.swf" /><param name="FlashVars" value="way=http://unrealspeccyp.googlecode.com/svn/wiki/music/Boulder%20Dash%20theme.mp3&amp;swf=http://unrealspeccyp.googlecode.com/svn/wiki/music/ump3player_500x70.swf&amp;w=500&amp;h=74&amp;time_seconds=0&amp;autoplay=1&amp;q=1&amp;skin=http://unrealspeccyp.googlecode.com/svn/wiki/music/skin_aluminium1.swf&amp;volume=70&amp;comment=Boulder Dash theme" /></object>
     ]]>
   </Content> 
 </Module>
