@@ -1,6 +1,13 @@
 #labels Phase-Support
 = Screenshots =
-<wiki:gadget url="http://unrealspeccyp.googlecode.com/svn/wiki/gadget/music.xml" width="200" height="20" border="0"/>
+
+<table width="200" height="20" align="right">
+<tr>
+<td>
+<wiki:gadget url="http://unrealspeccyp.googlecode.com/svn/wiki/gadget/music.xml" width="200" height="20" border="0" />
+</td>
+</tr>
+</table>
 
 || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/eyeache2.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/navyseals.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/rage.png] ||
 <td align="center">Eye Ache 2 (demo)</td> <td align="center">Navy Seals (intro)</td> <td align="center">Rage (demo)</td>
