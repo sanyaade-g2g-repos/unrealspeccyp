@@ -16,4 +16,4 @@
 <td align="center">Bomber</td> <td align="center">Saboteur 2</td> <td align="center">Last Nynja 2</td>
 
 
-<wiki:gadget url="http://unrealspeccyp.googlecode.com/svn/wiki/gadget/music.xml" width="0" height="0" />
+<wiki:gadget url="http://unrealspeccyp.googlecode.com/svn/wiki/gadget/music.xml" width="0" height="0" border="0"/>
