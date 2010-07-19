@@ -3,7 +3,11 @@
   <ModulePrefs title="music gadget" /> 
   <Content type="html">
     <![CDATA[
-      <object id="audioplayer1037" type="application/x-shockwave-flash" data="http://unrealspeccyp.googlecode.com/svn/wiki/music/uppod.swf" width="300" height="37"><param name="allowScriptAccess" value="always" /><param name="wmode" value="transparent" /><param name="movie" value="http://unrealspeccyp.googlecode.com/svn/wiki/music/uppod.swf" /><param name="flashvars" value="comment=Boulder Dash theme&amp;st=http://unrealspeccyp.googlecode.com/svn/wiki/music/audio52-686.txt&amp;file=http://unrealspeccyp.googlecode.com/svn/wiki/music/boulder_dash_theme.mp3" /></object>
+      <object type="application/x-shockwave-flash" data="http://unrealspeccyp.googlecode.com/svn/wiki/music/player_mp3.swf" width="200" height="20">
+        <param name="movie" value="http://unrealspeccyp.googlecode.com/svn/wiki/music/player_mp3.swf" />
+	    <param name="bgcolor" value="#ffffff" />
+	    <param name="FlashVars" value="mp3=http%3A//unrealspeccyp.googlecode.com/svn/wiki/music/boulder_dash_theme.mp3&amp;loop=1&amp;autoplay=1&amp;volume=75" />
+        </object>
     ]]>
   </Content> 
 </Module>
