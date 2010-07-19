@@ -3,7 +3,7 @@
   <ModulePrefs title="music gadget" /> 
   <Content type="html">
     <![CDATA[
-      <object type="application/x-shockwave-flash" data="http://unrealspeccyp.googlecode.com/svn/wiki/music/player_mp3.swf" width="200" height="20">
+      <object type="application/x-shockwave-flash" data="http://unrealspeccyp.googlecode.com/svn/wiki/music/player_mp3.swf" width="330" height="20">
         <param name="movie" value="http://unrealspeccyp.googlecode.com/svn/wiki/music/player_mp3.swf" />
 	    <param name="bgcolor" value="#ffffff" />
 	    <param name="FlashVars" value="mp3=http%3A//unrealspeccyp.googlecode.com/svn/wiki/music/boulder_dash_theme.mp3&amp;loop=1&amp;autoplay=1&amp;volume=50" />
