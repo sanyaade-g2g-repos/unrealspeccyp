@@ -1,1 +1,1 @@
-{"playlist":[{"comment":"Boulder Dash theme","file":"http://unrealspeccyp.googlecode.com/svn/wiki/music/Boulder Dash theme.mp3"}]}
+{"playlist":[{"comment":"Boulder Dash theme","file":"http://unrealspeccyp.googlecode.com/svn/wiki/music/boulder_dash_theme.mp3"}]}
