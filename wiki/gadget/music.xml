@@ -3,7 +3,7 @@
   <ModulePrefs title="music gadget" /> 
   <Content type="html">
     <![CDATA[
-      <object type="application/x-shockwave-flash" data="http://unrealspeccyp.googlecode.com/svn/wiki/music/ump3player_500x70.swf" height="0" width="0"><param name="wmode" VALUE="transparent" /><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="movie" value="http://unrealspeccyp.googlecode.com/svn/wiki/music/ump3player_500x70.swf" /><param name="FlashVars" value="way=http://unrealspeccyp.googlecode.com/svn/wiki/music/Boulder%20Dash%20theme.mp3&amp;swf=http://unrealspeccyp.googlecode.com/svn/wiki/music/ump3player_500x70.swf&amp;w=0&amp;h=0&amp;time_seconds=0&amp;autoplay=1&amp;replay=1&amp;q=&amp;skin=http://unrealspeccyp.googlecode.com/svn/wiki/music/skin_aluminium1.swf&amp;volume=70&amp;comment=Boulder Dash theme" /></object>
+      <object id="audioplayer1035" type="application/x-shockwave-flash" data="http://unrealspeccyp.googlecode.com/svn/wiki/music/uppod.swf" width="300" height="90"><param name="bgcolor" value="#ffffff" /><param name="allowScriptAccess" value="always" /><param name="movie" value="http://unrealspeccyp.googlecode.com/svn/wiki/music/uppod.swf" /><param name="flashvars" value="comment=Boulder Dash theme&amp;m=audio&amp;file=http://unrealspeccyp.googlecode.com/svn/wiki/music/Boulder Dash theme.mp3" /></object>
     ]]>
   </Content> 
 </Module>
