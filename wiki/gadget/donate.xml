@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+  <ModulePrefs title="donate gadget" /> 
+  <Content type="html">
+    <![CDATA[
+		<form style="display:inline" method=POST action="https://liqpay.com/?do=clickNbuy">
+	        <input type=hidden name="preorder" value="0dd31c5d6441607b5efeb697bb32ae69c71f9387">
+	        <input type=submit value="Donate!">
+	    </form>
+    ]]>
+  </Content> 
+</Module>
