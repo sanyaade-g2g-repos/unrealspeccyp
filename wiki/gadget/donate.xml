@@ -21,6 +21,22 @@
 			<input type="hidden" name="result_url" value="http://code.google.com/p/unrealspeccyp/" />
 			<input type="image" src="http://unrealspeccyp.googlecode.com/svn/wiki/image/donate_liqpay.png" width="90" height="60" border="0" name="submit" alt="" title="" style="border: none; background: none;" />
 		</form>
+
+		<form action="https://www.moneybookers.com/app/payment.pl" method="post" target="_blank">
+			<input type="hidden" name="pay_to_email" value="djdron.freelance@gmail.com">
+			<input type="hidden" name="status_url" value="djdron.freelance@gmail.com"> 
+			<input type="hidden" name="language" value="ENG">
+			<input type="hidden" name="amount" value="5">
+			<select style="width: 55px;" name="currency">
+				<option value="EUR">EUR</option>
+				<option selected="selected" value="USD">USD</option>
+				<option value="RUR">RUR</option>
+				<option value="UAH">UAH</option>
+			</select><br />
+			<input type="hidden" name="detail1_description" value="unreal speccy portable">
+			<input type="hidden" name="detail1_text" value="unreal speccy portable">
+			<input type="submit" value="Donate!">
+		</form>
     ]]>
   </Content> 
 </Module>
