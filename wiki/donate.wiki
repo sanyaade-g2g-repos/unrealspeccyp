@@ -1,2 +1,2 @@
 #labels Phase-Support
-<wiki:gadget url="http://unrealspeccyp.googlecode.com/svn/wiki/gadget/donate.xml" width="110" height="110" border="1" />
+<wiki:gadget url="http://unrealspeccyp.googlecode.com/svn/wiki/gadget/donate.xml" width="120" height="110" border="1" />
