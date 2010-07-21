@@ -19,8 +19,8 @@
 			<input type="hidden" name="no_shipping" value="1" />
 			<input type="hidden" name="no_note" value="0" />
 			<input type="hidden" name="result_url" value="http://code.google.com/p/unrealspeccyp/" />
-	        <input type="submit" value="Donate!">
-	    </form>
+			<input type="image" src="http://unrealspeccyp.googlecode.com/svn/wiki/image/donate_liqpay.png" width="90" height="60" border="0" name="submit" alt="" title="" style="border: none; background: none;" />
+		</form>
     ]]>
   </Content> 
 </Module>
