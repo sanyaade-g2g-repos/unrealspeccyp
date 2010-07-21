@@ -30,8 +30,6 @@
 			<select style="width: 55px;" name="currency">
 				<option value="EUR">EUR</option>
 				<option selected="selected" value="USD">USD</option>
-				<option value="RUR">RUR</option>
-				<option value="UAH">UAH</option>
 			</select><br />
 			<input type="hidden" name="detail1_description" value="unreal speccy portable">
 			<input type="hidden" name="detail1_text" value="unreal speccy portable">
