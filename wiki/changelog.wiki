@@ -3,6 +3,13 @@
 
 == Future release ==
   * screen flip/rotate option for any lcd controller (dingoo)
+  * tv out support (dingoo)
+  * file associations - .sim version (dingoo)
+  * able to open files from SD card (dingoo)
+  * ay stereo mode switch option
+  * font/roms inside .app/.sim (dingoo)
+  * quick save/load snapshot (dingoo & symbian)
+  * bugfix: option "drive" not works
 
 == Version 0.0.14 - 0.0.17 ==
   * full screen mode
