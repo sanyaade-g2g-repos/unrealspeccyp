@@ -1,8 +1,12 @@
 #labels Phase-Support
 <table>
+<tbody>
+<tr>
 <td style="padding: 5px;">
 <wiki:gadget url="http://unrealspeccyp.googlecode.com/svn/wiki/gadget/music.xml" width="320" height="100" border="0" />
 </td>
+</tr>
+</tbody>
 </table>
 
 || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/eyeache2.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/navyseals.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/rage.png] ||
