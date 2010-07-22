@@ -3,10 +3,10 @@
   <ModulePrefs title="music gadget" /> 
   <Content type="html">
     <![CDATA[
-      <object type="application/x-shockwave-flash" data="http://unrealspeccyp.googlecode.com/svn/wiki/music/player_mp3_multi.swf" width="320" height="100">
+      <object type="application/x-shockwave-flash" data="http://unrealspeccyp.googlecode.com/svn/wiki/music/player_mp3_multi.swf" width="216" height="100">
         <param name="movie" value="http://unrealspeccyp.googlecode.com/svn/wiki/music/player_mp3_multi.swf" />
 	    <param name="bgcolor" value="#ffffff" />
-	    <param name="FlashVars" value="playlist=http://unrealspeccyp.googlecode.com/svn/wiki/music/playlist.txt&amp;shuffle=1&amp;loop=1&amp;autoplay=1&amp;volume=50" />
+	    <param name="FlashVars" value="playlist=http://unrealspeccyp.googlecode.com/svn/wiki/music/playlist.txt&amp;shuffle=2&amp;loop=1&amp;autoplay=1&amp;volume=50" />
         </object>
     ]]>
   </Content> 
