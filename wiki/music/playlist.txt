@@ -1,4 +1,4 @@
-http://unrealspeccyp.googlecode.com/svn/wiki/music/boulder_dash_theme.mp3|Orpheus - Boulder Dash Construction Kit - Title (AY)
+http://unrealspeccyp.googlecode.com/svn/wiki/music/boulder_dash.mp3|Orpheus - Boulder Dash Construction Kit - Title (AY)
 http://unrealspeccyp.googlecode.com/svn/wiki/music/saboteur2.mp3|Rob Hubbard - Saboteur 2 - Title (beeper)
 http://unrealspeccyp.googlecode.com/svn/wiki/music/agent-x2.mp3|Tim Follin - Agent-X 2 - Title (beeper)
 http://unrealspeccyp.googlecode.com/svn/wiki/music/zx-format4_intro.mp3|Dr.Sampler - ZX-Format 4 - Intro (AY)
