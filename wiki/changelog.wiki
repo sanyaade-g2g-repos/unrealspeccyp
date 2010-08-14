@@ -1,7 +1,7 @@
 #labels Featured,Phase-Support
 = Change Log =
 
-== Future release ==
+== Version 0.0.18 ==
   * screen flip/rotate option for any lcd controller (dingoo)
   * tv out support (dingoo)
   * file associations - .sim version (dingoo)
