@@ -9,3 +9,5 @@
   * #           - space
   * vol up/down - change volume
   * 3           - profiler
+
+For holding key in virtual keyboard, focus it and press '#'.
