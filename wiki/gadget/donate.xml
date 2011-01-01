@@ -4,6 +4,7 @@
   <Content type="html">
     <![CDATA[
 		<form action="https://liqpay.com/?do=clickNbuy" method="post" target="_blank">
+			<input type="hidden" name="version" value="1.2"/>
 			<input type='hidden' name='operation_xml' value='CTxyZXF1ZXN0PgoJCTx2ZXJzaW9uPjEuMjwvdmVyc2lvbj4KCQk8cmVzdWx0X3VybD5odHRwOi8v
 Y29kZS5nb29nbGUuY29tL3AvdW5yZWFsc3BlY2N5cC8+CgkJPHNlcnZlcl91cmw+aHR0cDovL2Nv
 ZGUuZ29vZ2xlLmNvbS9wL3VucmVhbHNwZWNjeXAvPgoJCTxtZXJjaGFudF9pZD5pMTAwNzgyOTA2
