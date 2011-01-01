@@ -4,21 +4,13 @@
   <Content type="html">
     <![CDATA[
 		<form action="https://liqpay.com/?do=clickNbuy" method="post" target="_blank">
-			<input type="hidden" name="version" value="1.1" />
-			<input type="hidden" name="merchant_id" value="i1007829061" />
-			<input type="hidden" name="undefined_quantity" value="0" />
-			<input type="text" size="4" style="width: 35px;" name="amount" value="5" />
-			<select style="width: 55px;" name="currency">
-				<option value="EUR">EUR</option>
-				<option selected="selected" value="USD">USD</option>
-				<option value="RUR">RUR</option>
-				<option value="UAH">UAH</option>
-			</select><br />
-			<input type="hidden" name="description" value="unreal speccy portable" />
-			<input type="hidden" name="charset" value="utf-8" />
-			<input type="hidden" name="no_shipping" value="1" />
-			<input type="hidden" name="no_note" value="0" />
-			<input type="hidden" name="result_url" value="http://code.google.com/p/unrealspeccyp/" />
+			<input type='hidden' name='operation_xml' value='PHJlcXVlc3Q+Cgk8dmVyc2lvbj4xLjI8L3ZlcnNpb24+Cgk8cmVzdWx0X3VybD5odHRwOi8vY29k
+ZS5nb29nbGUuY29tL3AvdW5yZWFsc3BlY2N5cC8+Cgk8c2VydmVyX3VybD5odHRwOi8vY29kZS5n
+b29nbGUuY29tL3AvdW5yZWFsc3BlY2N5cC8+Cgk8bWVyY2hhbnRfaWQ+aTEwMDc4MjkwNjE8L21l
+cmNoYW50X2lkPgoJPG9yZGVyX2lkPk9SREVSXzEyMzQ8L29yZGVyX2lkPgoJPGFtb3VudD41PC9h
+bW91bnQ+Cgk8Y3VycmVuY3k+VVNEPC9jdXJyZW5jeT4KCTxkZXNjcmlwdGlvbj51bnJlYWwgc3Bl
+Y2N5IHBvcnRhYmxlPC9kZXNjcmlwdGlvbj4KCTwvcmVxdWVzdD4='/>
+			<input type='hidden' name='signature' value='PNRDhlMdpU3YWw2OcHU694S/qcc='/>
 			<input type="image" src="http://unrealspeccyp.googlecode.com/svn/wiki/image/donate_liqpay.png" width="90" height="60" border="0" name="submit" alt="" title="" style="border: none; background: none;" />
 		</form>
 
