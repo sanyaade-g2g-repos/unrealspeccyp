@@ -4,16 +4,8 @@
   <Content type="html">
     <![CDATA[
 		<form action="https://liqpay.com/?do=clickNbuy" method="post" target="_blank">
-			<input type='hidden' name='operation_xml' value='PHJlcXVlc3Q+Cgk8dmVyc2lvbj4xLjI8L3ZlcnNpb24+Cgk8cmVzdWx0X3VybD5odHRwOi8vY29k
-ZS5nb29nbGUuY29tL3AvdW5yZWFsc3BlY2N5cC8+Cgk8c2VydmVyX3VybD5odHRwOi8vY29kZS5n
-b29nbGUuY29tL3AvdW5yZWFsc3BlY2N5cC8+Cgk8bWVyY2hhbnRfaWQ+aTEwMDc4MjkwNjE8L21l
-cmNoYW50X2lkPgoJPG9yZGVyX2lkPk9SREVSXzEyMzQ8L29yZGVyX2lkPgoJPGFtb3VudD41PC9h
-bW91bnQ+Cgk8Y3VycmVuY3k+VVNEPC9jdXJyZW5jeT4KCTxkZXNjcmlwdGlvbj51bnJlYWxfc3Bl
-Y2N5X3BvcnRhYmxlPC9kZXNjcmlwdGlvbj4KCTxkZWZhdWx0X3Bob25lPjwvZGVmYXVsdF9waG9u
-ZT4KCTxwYXlfd2F5PjwvcGF5X3dheT4KPC9yZXF1ZXN0Pg==
-'/>
-			<input type='hidden' name='signature' value='9MVr8ZuFCLD/TwmkYVJyu2+zjAs=
-'/>
+			<input type="hidden" name="operation_xml" value="PHJlcXVlc3Q+Cgk8dmVyc2lvbj4xLjI8L3ZlcnNpb24+Cgk8cmVzdWx0X3VybD5odHRwOi8vY29kZS5nb29nbGUuY29tL3AvdW5yZWFsc3BlY2N5cC8+Cgk8c2VydmVyX3VybD5odHRwOi8vY29kZS5nb29nbGUuY29tL3AvdW5yZWFsc3BlY2N5cC8+Cgk8bWVyY2hhbnRfaWQ+aTEwMDc4MjkwNjE8L21lcmNoYW50X2lkPgoJPG9yZGVyX2lkPk9SREVSXzEyMzQ8L29yZGVyX2lkPgoJPGFtb3VudD41PC9hbW91bnQ+Cgk8Y3VycmVuY3k+VVNEPC9jdXJyZW5jeT4KCTxkZXNjcmlwdGlvbj51bnJlYWxfc3BlY2N5X3BvcnRhYmxlPC9kZXNjcmlwdGlvbj4KCTxkZWZhdWx0X3Bob25lPjwvZGVmYXVsdF9waG9uZT4KCTxwYXlfd2F5PjwvcGF5X3dheT4KPC9yZXF1ZXN0Pg=="/>
+			<input type="hidden" name="signature" value="9MVr8ZuFCLD/TwmkYVJyu2+zjAs="/>
 			<input type="image" src="http://unrealspeccyp.googlecode.com/svn/wiki/image/donate_liqpay.png" width="90" height="60" border="0" name="submit" alt="" title="" style="border: none; background: none;" />
 		</form>
 
