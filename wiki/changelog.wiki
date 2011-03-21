@@ -1,6 +1,9 @@
 #labels Featured,Phase-Support
 = Change Log =
 
+== Version 0.0.19 ==
+  * android platform launch
+
 == Version 0.0.18 ==
   * screen flip/rotate option for any lcd controller (dingoo)
   * tv out support (dingoo)
