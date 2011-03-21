@@ -1,0 +1,12 @@
+#labels Featured,Phase-Support
+=Controls=
+
+==Keys in emul==
+  * menu        - menu
+  * back        - virtual keys
+  * arrows      - joystick
+  * dial        - enter
+  * camera      - space
+  * vol up/down - change volume
+
+For holding key in virtual keyboard, focus it and press 'camera key'.
