@@ -9,4 +9,4 @@
   * camera      - space
   * vol up/down - change volume
 
-For holding key in virtual keyboard, focus it and press 'camera key'.
+For holding key in virtual keyboard, focus it and press 'camera' key.
