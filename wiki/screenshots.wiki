@@ -7,8 +7,8 @@
 || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/rage.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/academy.png] ||
 <td align="center">Rage (demo)</td> <td align="center">Academy (Tau Ceti 2)</td>
 
-|| [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/elite.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/exolon.png] ||
-<td align="center">ELITE (joystick club)</td> <td align="center">Exolon</td>
+|| [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/elite.gif] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/exolon.png] ||
+<td align="center">ELITE</td> <td align="center">Exolon</td>
 
 || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/af2.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/batty.png] ||
 <td align="center">Action Force 2</td> <td align="center">Batty</td>
