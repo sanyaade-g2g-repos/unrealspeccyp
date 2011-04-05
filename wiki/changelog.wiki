@@ -1,7 +1,7 @@
 #labels Featured,Phase-Support
 = Change Log =
 
-== Version 0.0.20 ==
+== Version 0.0.20 (android) ==
   * native menu/preferences/open file dialog added
   * full screen mode (320x240 devices in landscape mode support)
   * stop render thread when app not active (battery save)
