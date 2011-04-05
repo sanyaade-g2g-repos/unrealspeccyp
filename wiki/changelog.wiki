@@ -1,6 +1,13 @@
 #labels Featured,Phase-Support
 = Change Log =
 
+== Version 0.0.20 ==
+  * native menu/preferences/open file dialog added
+  * full screen mode (320x240 devices in landscape mode support)
+  * stop render thread when app not active (battery save)
+  * prevent phone from locking when emulator active
+  * auto start tape when file opened
+
 == Version 0.0.19 ==
   * android platform launch
 
