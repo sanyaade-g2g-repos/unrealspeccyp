@@ -1,6 +1,17 @@
 #labels Featured,Phase-Support
 = Change Log =
 
+== Version 0.0.21 (android) ==
+  * bugfix with sorting in file open dialog
+  * file sorting improved and in file selector dialog
+  * select last file when file open dialog appears
+  * display only supported file types in file open dialog
+  * able to start/stop tape from preferences
+  * tape traps added
+  * fast tape option added
+  * bugfix with audio buffer overrun when fast tape used
+  * move to sd card feature added (android 2.2 and higher)
+
 == Version 0.0.20 (android) ==
   * native menu/preferences/open file dialog added
   * full screen mode (320x240 devices in landscape mode support)
