@@ -1,6 +1,11 @@
 #labels Featured,Phase-Support
 = Change Log =
 
+== Version 0.0.22 (android) ==
+  * ad banners removed
+  * compiled with most optimizations flags (-O3)
+  * armeabi-v7a architecture support added (need to test)
+
 == Version 0.0.21 (android) ==
   * bugfix with sorting in file open dialog
   * file sorting improved and in file selector dialog
