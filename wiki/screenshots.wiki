@@ -4,23 +4,23 @@
 || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/eyeache2.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/navyseals.png] ||
 <td align="center">Eye Ache 2 (demo)</td> <td align="center">Navy Seals (intro)</td>
 
-|| [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/rage.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/academy.png] ||
+|| [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/rage.png] || <a href="http://en.wikipedia.org/wiki/Academy_(video_game)">[http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/academy.png]</a> ||
 <td align="center">Rage (demo)</td> <td align="center">Academy (Tau Ceti 2)</td>
 
-|| [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/elite.gif] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/exolon.png] ||
+|| <a href="http://en.wikipedia.org/wiki/Elite_(video_game)">[http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/elite.gif]</a> || <a href="http://en.wikipedia.org/wiki/Exolon">[http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/exolon.png]</a> ||
 <td align="center">ELITE</td> <td align="center">Exolon</td>
 
-|| [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/af2.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/batty.png] ||
+|| <a href="http://en.wikipedia.org/wiki/Action_Force_II">[http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/af2.png]</a> || <a href="http://en.wikipedia.org/wiki/Batty_(video_game)">[http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/batty.png]</a> ||
 <td align="center">Action Force 2</td> <td align="center">Batty</td>
 
-|| [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/r-type.png] || http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/venom.png] ||
+|| <a href="http://en.wikipedia.org/wiki/R-Type">[http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/r-type.png]</a> || <a href="http://en.wikipedia.org/wiki/M.A.S.K.">[http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/venom.png]</a> ||
 <td align="center">R-Type</td> <td align="center">Venom strikes back</td>
 
-|| [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/hongkong.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/zx-f4.png] ||
+|| <a href="http://en.wikipedia.org/wiki/Hong_Kong_Phooey">[http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/hongkong.png]</a> || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/zx-f4.png] ||
 <td align="center">Hong Kong</td> <td align="center">ZX-Format 4</td>
 
-|| [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/bomber.png] || [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/saboteur-2.png] ||
+|| [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/bomber.png] || <a href="http://en.wikipedia.org/wiki/Saboteur_II:_Avenging_Angel">[http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/saboteur-2.png]</a> ||
 <td align="center">Bomber</td> <td align="center">Saboteur 2</td>
 
-|| [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/ln-2.png] ||
+|| <a href="http://en.wikipedia.org/wiki/Last_Ninja_2">[http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/ln-2.png]</a> ||
 <td align="center">Last Nynja 2</td>
