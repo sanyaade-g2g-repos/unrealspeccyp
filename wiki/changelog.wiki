@@ -1,6 +1,12 @@
 #labels Featured,Phase-Support
 = Change Log =
 
+== Version 0.0.23 (android) ==
+  * zooming & filtering options added
+  * quit kills process
+  * skip frame option
+  * .apk size reduced
+
 == Version 0.0.22 (android) ==
   * ad banners removed
   * compiled with most optimizations flags (-O3)
