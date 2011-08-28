@@ -1,6 +1,12 @@
 #labels Featured,Phase-Support
 = Change Log =
 
+== Version 0.0.24 (android) ==
+  * onscreen full 40 keys zx-keyboard added
+  * keyboard/joystick toggle by 'back' key
+  * multi-touch support
+  * joystick sensor (accelerometer) control
+
 == Version 0.0.23 (android) ==
   * zooming & filtering options added
   * quit kills process
