@@ -12,7 +12,8 @@
 
 For holding key in virtual keyboard, focus it and press '#'.
 
-Version for touch-screen phones requires installation of [http://qt.nokia.com Qt library].
+Version for touch-screen phones requires installation of [http://qt.nokia.com Qt framework].
+
 It consist of 2 installation packages : *qt.sis* and *qtmobility.sis*.
 
 You can find it here:
