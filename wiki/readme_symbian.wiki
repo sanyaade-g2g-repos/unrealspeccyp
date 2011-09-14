@@ -11,3 +11,12 @@
   * 3           - profiler
 
 For holding key in virtual keyboard, focus it and press '#'.
+
+Version for touch-screen phones requires installation of [http://qt.nokia.com Qt library].
+It consist of 2 installation packages : *qt.sis* and *qtmobility.sis*.
+
+You can find it here:
+
+[http://code.google.com/p/unrealspeccyp/source/browse/wiki/redist/Symbian/QtSymbian%5E1-4.7.3/ for Symbian 9.4 (S60v5) and Symbian^1]
+
+[http://code.google.com/p/unrealspeccyp/source/browse/wiki/redist/Symbian/QtSymbian%5E3-4.7.3/ for Symbian^3]
