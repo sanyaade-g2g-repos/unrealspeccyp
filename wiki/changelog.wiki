@@ -1,6 +1,11 @@
 #labels Featured,Phase-Support
 = Change Log =
 
+== Version 0.0.26 (Symbian) ==
+  * Qt framework used
+  * touch screens support added
+  * S60v5 (9.4), Symbian^1, Symbian^3 support
+
 == Version 0.0.24, 0.0.25 (android) ==
   * onscreen full 40 keys zx-keyboard added
   * keyboard/joystick toggle by 'back' key
