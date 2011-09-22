@@ -1,7 +1,8 @@
 #labels Featured,Phase-Support
 =Controls=
 
-==Keys in emul==
+==Version for S60v3 devices==
+Keys in emul:
   * 1           - menu
   * `*`         - virtual keys
   * 2,4,5,6,8   - joystick
@@ -12,6 +13,7 @@
 
 For holding key in virtual keyboard, focus it and press '#'.
 
+==Version for S60v5, Symbian^^1^, Symbian^^3^ devices==
 Version for touch-screen phones requires installation of [http://qt.nokia.com Qt framework].
 
 It consist of 2 installation packages : *qt.sis* and *qtmobility.sis*.
