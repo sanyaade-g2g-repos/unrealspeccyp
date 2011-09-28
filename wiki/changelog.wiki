@@ -1,6 +1,10 @@
 #labels Featured,Phase-Support
 = Change Log =
 
+== Version 0.0.27 (android) ==
+  * [http://http://vtrdos.ru vtrdos.ru] & [http://www.worldofspectrum.org worldofsperctum.org] browsers
+  * bugfix with trimmed .trd's opening
+
 == Version 0.0.26 (symbian) ==
   * Qt framework used (see [readme_symbian] for install it)
   * touch screens support added
