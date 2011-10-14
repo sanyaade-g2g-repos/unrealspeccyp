@@ -1,6 +1,12 @@
 #labels Featured,Phase-Support
 = Change Log =
 
+== Version 0.0.29 (android) ==
+  * OpenGL ES rendering (hardware scaling)
+  * new zooming options (none, fill screen, small border, no border)
+  * tablets support (large screens)
+  * skip frames & filtering options removed
+
 == Version 0.0.28 (android) ==
   * sound mixer added
 
