@@ -1,6 +1,14 @@
 #labels Featured,Phase-Support
 = Change Log =
 
+== Version 0.0.31 (android) ==
+  * motion events processing fixed (crash on tablets)
+
+== Version 0.0.30 (symbian s60v3) ==
+  * 'no border' mode (some kind of zoom)
+  * skip frames '1' mode added
+  * keyboard events processing improved
+
 == Version 0.0.29 (android) ==
   * OpenGL ES rendering (hardware scaling)
   * new zooming options (none, fill screen, small border, no border)
