@@ -39,3 +39,12 @@ Also use keys listed on the bottom line.
   * SPACE, ENTER - exit in Max Petrov commander
   * SS, CS+О - go to end
   * SS, CS+P - go to begin
+
+== Other notes ==
+For platform-specific features, etc read other documents:
+
+[readme_symbian]
+
+[readme_dingoo]
+
+[readme_android]
