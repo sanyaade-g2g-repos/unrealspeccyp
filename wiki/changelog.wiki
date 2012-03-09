@@ -1,6 +1,13 @@
 #labels Featured,Phase-Support
 = Change Log =
 
+== Version 0.0.32 (android) ==
+  * controls in landscape mode
+  * .fdi file format support
+  * x86 platform support
+  * bugfix with multitouch (using joystick in hardcore games)
+  * hw keys processing improved
+
 == Version 0.0.31 (android) ==
   * motion events processing fixed (crash on tablets)
 
