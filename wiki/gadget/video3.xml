@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+  <ModulePrefs title="video" /> 
+  <Content type="html">
+    <![CDATA[
+      <iframe width="480" height="360" src="http://www.youtube.com/embed/7T1SSIQXq-4" frameborder="0" allowfullscreen></iframe>
+    ]]>
+  </Content> 
+</Module>
