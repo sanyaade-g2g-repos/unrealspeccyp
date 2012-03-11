@@ -1,4 +1,4 @@
-#labels Phase-Implementation,Phase-Support
+#labels Phase-Implementation,Phase-Deploy,Featured
 = Building Qt version (windows, linux, mac, symbian touch) =
 
 Download [http://qt.nokia.com/downloads Nokia Qt SDK].
