@@ -8,7 +8,9 @@ When installing it, select required components (desktop, mobile platforms, toolc
 [http://code.google.com/p/unrealspeccyp/source/checkout Checkout] source code.
 
 Launch [http://qt.nokia.com/products/developer-tools Qt Creator].
+
 Open project from file  unreal_speccy_portable/build/qt/unreal_speccy_portable.pro.
 
 Select required platform, Debug or Release configuration.
+
 Press Build & Run button.
