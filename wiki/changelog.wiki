@@ -1,6 +1,9 @@
 #labels Featured,Phase-Support
 = Change Log =
 
+== Version 0.0.34 (google chrome NaCl) ==
+  * google chrome native client first launch
+
 == Version 0.0.32 (android) ==
   * controls in landscape mode
   * .fdi file format support
