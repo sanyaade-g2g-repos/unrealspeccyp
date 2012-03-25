@@ -6,5 +6,6 @@ Can be running under Windows/Linux/Mac OS/Google Chrome OS.
 Required WebGL support (OpenGL ES > 2.0) and Google Chrome version > 16.
 
 If you download version from [http://code.google.com/p/unrealspeccyp/downloads/list "Downloads"] section, then for installing it you need to enable Native Client in "about:flags" page.
+If you get error message "Apps must be served with content type application/x-chrome-extension." when installing .crx file, you need to save it first to local disk with right click->save link as..., then drag & drop this file to Chrome window.
 
 Also you can install it with Chrome Web Store from [https://chrome.google.com/webstore/detail/jfkpejkiedieehgdecgcjbmcbpihimmb this link]. In this case enabling of Native Client from "about:flags" is not required.
