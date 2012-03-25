@@ -1,5 +1,5 @@
 #labels Phase-Support,Featured
-= Google Chrome Native Client =
+= [https://developers.google.com/native-client Google Chrome Native Client] =
 
 Can be running under Windows/Linux/Mac OS/Google Chrome OS.
 
