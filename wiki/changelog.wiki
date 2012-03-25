@@ -1,11 +1,11 @@
 #labels Featured,Phase-Support
 = Change Log =
 
-== Version 0.0.34.2 (google chrome NaCl) ==
+== Version 0.0.34.1 - 0.0.34.3 ([readme_chrome google chrome NaCl]) ==
+  * bugfix with invalid glEnable call
+  * correct cleanup on instance destroying
   * full screen mode
   * mouse emulation in full screen mode
-
-== Version 0.0.34.1 (google chrome NaCl) ==
   * google chrome native client first launch
 
 == Version 0.0.32 (android) ==
