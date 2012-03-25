@@ -48,3 +48,5 @@ For platform-specific features, etc read other documents:
 [readme_dingoo]
 
 [readme_android]
+
+[readme_chrome]
