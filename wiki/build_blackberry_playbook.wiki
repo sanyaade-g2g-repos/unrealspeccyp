@@ -1,10 +1,8 @@
 #labels Phase-Support,Phase-Implementation
-= QNX Playbook / B10-Phone builds =
+= QNX Playbook / BB10-Phone builds =
 
-TODO: 
-  bar packaging support for dev mode and release if possible simulator target
 
-Playbook build is identical to a Linux SDL build with a couple of tweaks...
+The Playbook build is identical to a Linux SDL build with a couple of tweaks...
 2 libraries are required SDL and TouchControlOverlay (TCO). These libraries provide SDL1.2 with touch interface support and enable the porting of applications like this. IF your interested in general porting of apps to the QNX/BB10 platform there is a good article here:
 
 General BB porting info [https://bdsc.webapps.blackberry.com/native/documentation/porting_overview_1970891_11.html here]:
