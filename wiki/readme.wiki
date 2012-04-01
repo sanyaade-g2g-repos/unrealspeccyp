@@ -1,6 +1,8 @@
 #labels Featured,Phase-Support
 = Read me =
-After launching emulator you will see the MadRom (C) AXLR screen.
+After launching emulator you will see the [http://www.worldofspectrum.org/infoseekid.cgi?id=0021765 MadRom] (C) AXLR screen.
+
+[http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/madrom.png]
 
 == Keys in MadRom ==
   * U - Menu 128K
@@ -10,7 +12,7 @@ After launching emulator you will see the MadRom (C) AXLR screen.
   * 1, 2, 3, 4 - Select current drive for TR-Dos
   * R - run assembler from bank #14/#51 #7FFD
   * T - run debugger (STS) from bank #17/#57 #7FFD
-  * ENTER - run Max Petrov's TR-Dos commander (see below)
+  * *ENTER* - run Max Petrov's TR-Dos commander (see below)
   * 0 - run CMOS setup (this features isn't correctly emulated)
 
 Or you can use Kempston mouse for select this items.
