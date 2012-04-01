@@ -2,7 +2,7 @@
 Look for all available wiki pages [http://code.google.com/p/unrealspeccyp/wiki here].
 
 = Read me =
-After launching emulator you will see the [http://www.worldofspectrum.org/infoseekid.cgi?id=0021765 MadRom] (C) AXLR screen.
+After launching emulator you will see the [http://www.worldofspectrum.org/infoseekid.cgi?id=0021765 MadRom] (C) AXLR screen ([readme_madrom original readme on russian]).
 
 [http://unrealspeccyp.googlecode.com/svn/wiki/screenshot/madrom.png]
 
