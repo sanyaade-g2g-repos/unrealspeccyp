@@ -48,8 +48,8 @@ For developing on a real playbook you need a debug token which is an expiring 'k
 blackberry-debugtokenrequest
 
  # We need to package up our files into a .bar file
-    blackberry-nativepackager
+    * blackberry-nativepackager
  # We need to sign the package if it is to be used by other PB owners
-    blackberry-signer
+    * blackberry-signer
  # load it ...
-    blackberry-deploy
+    * blackberry-deploy
