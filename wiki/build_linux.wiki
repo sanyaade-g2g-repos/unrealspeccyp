@@ -1,4 +1,4 @@
-#labels Phase-Implementation,Phase-Support
+#labels Phase-Implementation,Phase-Support,Featured
 = Building in Linux environment (Debian/Ubuntu) =
 
 Before building you need to install some developer tools:
