@@ -15,7 +15,7 @@ svn checkout http://unrealspeccyp.googlecode.com/svn/trunk/ .
 cd build/linux
 }}}
 
-There are 2 versions you can build:
+There are two versions you can build:
   # [http://www.wxwidgets.org wxWidgets] + [http://www.opengl.org OpenGL] + [http://connect.creativelabs.com/openal OpenAL] version.
   # [http://www.libsdl.org SDL] version.
 
