@@ -1,5 +1,10 @@
 #labels Featured,Phase-Support
 = Change Log =
+== Version 0.0.35 (android) ==
+  * auto play files option
+  * MIPS architecture support
+  * fast scroller added in file selector lists
+  * bugfix with sound buffer overrun
 
 == Version 0.0.34.1 - 0.0.34.3 ([readme_chrome google chrome NaCl]) ==
   * bugfix with invalid glEnable call
