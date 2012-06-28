@@ -1,5 +1,12 @@
 #labels Featured,Phase-Support
 = Change Log =
+== Version 0.0.36 (android) ==
+  * sound lag minimized
+  * video filtering option added
+  * sync by timer option added (smooter playback on devices with huge min. sound buffers)
+  * A, B, X, Y keys binded (JXD s5110 support)
+  * bugfix with cursor joystick (CAPS releasing when > 1 key pressed)
+
 == Version 0.0.35 (android) ==
   * auto play files option
   * MIPS architecture support
