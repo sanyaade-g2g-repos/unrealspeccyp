@@ -3,7 +3,7 @@
 == Version 0.0.36 (android) ==
   * sound lag minimized
   * video filtering option added
-  * sync by timer option added (smooter playback on devices with huge min. sound buffers)
+  * sync by timer option added (smoother playback on devices with huge min. sound buffers)
   * A, B, X, Y keys binded (JXD s5110 support)
   * bugfix with cursor joystick (CAPS releasing when > 1 key pressed)
 
