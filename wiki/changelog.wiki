@@ -1,9 +1,9 @@
 #labels Featured,Phase-Support
 = Change Log =
-== Version 0.0.37 (google chrome NaCl only on [https://chrome.google.com/webstore/detail/jfkpejkiedieehgdecgcjbmcbpihimmb Chrome Web Store]) ==
+== Version 0.0.37 (google chrome NaCl) - on [https://chrome.google.com/webstore/detail/jfkpejkiedieehgdecgcjbmcbpihimmb Chrome Web Store] ==
   * android-style [http://vtrdos.ru/ vtrdos.ru] browser added
 
-== Version 0.0.36.1 (android only on [https://play.google.com/store/apps/details?id=app.usp Google Play]) ==
+== Version 0.0.36.1 (android) - on [https://play.google.com/store/apps/details?id=app.usp Google Play] ==
   * [http://vtrdos.ru/demos/demoz.htm vtrdos.ru demos] section browser improved
 
 == Version 0.0.36 (android) ==
