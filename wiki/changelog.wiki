@@ -1,5 +1,9 @@
 #labels Featured,Phase-Support
 = Change Log =
+
+== Version 0.0.38 (Sony PSP) ==
+  * PSP native platform support
+
 == Version 0.0.37.0 - 0.0.37.1 (google chrome NaCl) - on [https://chrome.google.com/webstore/detail/jfkpejkiedieehgdecgcjbmcbpihimmb Chrome Web Store] ==
   * android-style [http://vtrdos.ru/ vtrdos.ru] browser added
   * bugfix with crash when leaving fullscreen (waiting for chrome devs to fix mouse lock)
