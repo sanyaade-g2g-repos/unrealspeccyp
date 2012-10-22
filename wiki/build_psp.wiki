@@ -3,9 +3,7 @@
 
 == Using Linux (x86-64) ==
 
-Download PSP SDK
-
-Download it to your home dir & unpack it:
+Download PSP SDK to your home dir & unpack it:
 {{{
 cd ~
 wget http://downloads.sourceforge.net/project/minpspw/SDK%20%2B%20devpak/pspsdk%200.11.2/minpspw_0.11.2-amd64.tar.lzma
