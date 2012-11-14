@@ -1,6 +1,11 @@
 #labels Featured,Phase-Support
 = Change Log =
 
+== Version 0.0.40 (Dingoo A320) ==
+  * perfect vsync, including ILI9338
+  * menu & list cycling
+  * fixed some bugs with sound
+
 == Version 0.0.38 (Sony PSP) ==
   * PSP native platform support
 
