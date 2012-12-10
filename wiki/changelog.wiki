@@ -1,7 +1,7 @@
 #labels Featured,Phase-Support
 = Change Log =
 
-== Version 0.0.36 (android) ==
+== Version 0.0.41 (android) ==
   * rzx replays support
   * http://www.rzxarchive.co.uk/ browser
   * true rom in 48k mode
