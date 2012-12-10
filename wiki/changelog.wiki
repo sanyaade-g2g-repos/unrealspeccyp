@@ -1,6 +1,13 @@
 #labels Featured,Phase-Support
 = Change Log =
 
+== Version 0.0.36 (android) ==
+  * rzx replays support
+  * http://www.rzxarchive.co.uk/ browser
+  * true rom in 48k mode
+  * bugfix with R register emulation when interrupt occured
+  * bugfixes with snapshots loading
+
 == Version 0.0.40 (Dingoo A320) ==
   * perfect vsync, including ILI9338
   * menu & list cycling
