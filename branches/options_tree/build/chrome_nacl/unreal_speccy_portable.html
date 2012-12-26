@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Unreal Speccy Portable</title>
+  <script type="text/javascript" src="unreal_speccy_portable.js"></script>
+  <style type="text/css">
+    #browser {
+      margin: 0px;
+	  padding: 2px;
+	  list-style-type: none;
+	  border-top: 0px;
+	  width: 240px;
+	  height: 480px;
+	  border: 1px solid #999;
+	  overflow: auto;
+    }
+	#browser li {
+	  font-size: 12px;
+      margin: 0px;
+	  padding: 0px;
+	  background-color: transparent;
+	  -webkit-user-select: none;
+	  user-select: none;
+	  cursor: default;
+	}
+  </style>
+</head>
+<body>
+<p>
+  <table>
+    <tr>
+      <td>
+          <div id="listener">
+            <embed name="nacl_module"
+                   id="unreal_speccy_portable"
+                   width=640 height=480
+                   src="unreal_speccy_portable.nmf"
+                   type="application/x-nacl" />
+          </div>
+	  </td>
+	  <td>
+		<ul id="browser">
+		</ul>
+      </td>
+    </tr>
+  </table>
+  <small>
+  <div>
+	<button id="reset">Reset</button>
+	Joystick: <select id="joystick">
+	  <option value="kempston">Kempston</option>
+	  <option value="sinclair2">Sinclair 2</option>
+	  <option value="qaop">QAOP</option>
+	  <option value="cursor">Cursor</option>
+	</select>
+	<br /><br />
+	When emulator view is focused, press F12 to reset, Ctrl+F to enter full screen mode.
+	<br />
+	Copyright (C) 2001-2012 SMT, Dexus, Alone Coder, deathsoft, djdron, scor.
+  </div>
+  </small>
+</p>
+<h6><div id="status"></div></h6>
+</body>
+</html>
