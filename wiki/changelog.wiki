@@ -1,6 +1,10 @@
 #labels Featured,Phase-Support
 = Change Log =
 
+== Version 0.0.42 (Raspberry Pi) ==
+  * native GLES v2 render with indexed textures & uber-shader ;)
+  * SDL for keyboard input & sound
+
 == Version 0.0.41 (android) ==
   * rzx replays support
   * http://www.rzxarchive.co.uk/ browser
