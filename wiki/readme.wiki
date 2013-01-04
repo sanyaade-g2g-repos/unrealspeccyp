@@ -56,3 +56,5 @@ For platform-specific features, etc read other documents:
 [readme_chrome]
 
 [readme_psp]
+
+[readme_rpi]
