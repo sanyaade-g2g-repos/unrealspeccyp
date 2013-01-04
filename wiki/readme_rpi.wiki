@@ -1,0 +1,18 @@
+#labels Featured,Phase-Support
+=Installation=
+
+Just unpack archive contents to your home folder.
+
+Note : use 50 Hz screen modes for full synchronization.
+
+You can set it in /boot/config.txt
+
+hdmi_group=1
+
+hdmi_mode=19
+
+=Controls=
+
+==Keys in emul==
+  * ESC			- menu.
+  * Arrows, Right CTRL	- joystick.
