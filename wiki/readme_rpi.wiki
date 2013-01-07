@@ -15,4 +15,9 @@ hdmi_mode=19
 
 ==Keys in emul==
   * ESC			- menu.
-  * Arrows, Right CTRL	- joystick.
+  * Arrows, CTRL	- joystick.
+  * F12 - reset
+  * F7 - pause
+  * F2 - quick save
+  * F3 - quick load
+  * F5 - start/stop tape
