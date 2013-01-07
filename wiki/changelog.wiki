@@ -1,6 +1,16 @@
 #labels Featured,Phase-Support
 = Change Log =
 
+== Version 0.0.43 (Raspberry Pi) ==
+  * files sorting in open file dialog
+  * select last opened file
+  * new keys binded:
+    * F12 - reset
+    * F7 - pause
+    * F2 - quick save
+    * F3 - quick load
+    * F5 - start/stop tape
+
 == Version 0.0.42 (Raspberry Pi) ==
   * native GLES v2 render with indexed textures & uber-shader ;)
   * SDL for keyboard input & sound
