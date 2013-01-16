@@ -11,8 +11,6 @@ hdmi_group=1
 
 hdmi_mode=19
 
-Note : launch it without X-server running
-
 =Controls=
 
 ==Keys in emul==
