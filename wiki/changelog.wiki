@@ -1,6 +1,9 @@
 #labels Featured,Phase-Support
 = Change Log =
 
+== Version 0.0.44 (android) ==
+  * added http://zxaaa.untergrund.net/ huge demos database
+
 == Version 0.0.43 (Raspberry Pi) ==
   * files sorting in open file dialog
   * select last opened file
