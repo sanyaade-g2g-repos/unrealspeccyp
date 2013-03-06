@@ -1,6 +1,12 @@
 #labels Featured,Phase-Support
 = Change Log =
 
+== Version 0.0.45 (android) ==
+  * bugfix with opening tape files when .rzx replay working
+  * fixed crash while downloading file from web & display orientation change
+  * bugfix: use hq keyboard & joystick on big screens or hdpi
+  * android 2.1 compatibility (fix with latest NDK)
+
 == Version 0.0.44 (android) ==
   * added http://zxaaa.untergrund.net/ huge demos database
 
