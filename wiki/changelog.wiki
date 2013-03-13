@@ -1,6 +1,15 @@
 #labels Featured,Phase-Support
 = Change Log =
 
+== Version 0.0.46 (android) ==
+  * display progress bars on long time operations with web
+  * cancelable file selector operations (get items/apply)
+  * skip frames option implemented in GLESv1 view
+  * correct "mono" volume in AY/YM to match other volumes
+  * fixed crash when r/w beyond of disk image
+  * download file to ".tmp" first
+  * memory leaks, uninitialized vars, etc. fixed
+
 == Version 0.0.45 (android) ==
   * bugfix with opening tape files when .rzx replay working
   * fixed crash while downloading file from web & display orientation change
