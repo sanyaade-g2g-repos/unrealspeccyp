@@ -7,9 +7,21 @@ Note : use 50 Hz screen modes for full synchronization.
 
 You can set it in /boot/config.txt
 
-hdmi_group=1
+720p mode:
 
-hdmi_mode=19
+{{{
+hdmi_group = 1
+hdmi_mode  = 19
+}}}
+
+1080p mode:
+
+{{{
+hdmi_group = 1
+hdmi_mode  = 31
+}}}
+
+See http://elinux.org/RPiconfig for more info.
 
 =Controls=
 
