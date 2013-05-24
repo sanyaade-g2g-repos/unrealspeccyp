@@ -1,6 +1,13 @@
 #labels Featured,Phase-Support
 = Change Log =
 
+== Version 0.0.47 (google chrome NaCl) - on [https://chrome.google.com/webstore/detail/jfkpejkiedieehgdecgcjbmcbpihimmb Chrome Web Store] ==
+  * arm chromebooks support added
+  * mouse locking improved
+  * zoom modes option
+  * filtering option
+  * new GLESv2 shader
+
 == Version 0.0.46 (android) ==
   * display progress bars on long time operations with web
   * cancelable file selector operations (get items/apply)
