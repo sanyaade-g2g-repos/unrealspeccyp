@@ -3,6 +3,10 @@
   <ModulePrefs title="donate gadget" /> 
   <Content type="html">
     <![CDATA[
+		<form style="display:inline" method=POST action="https://liqpay.com/?do=clickNbuy">
+        	<input type=hidden name="preorder" value="8821fae630f7a1cc8930b4436d54856de2218209">
+	        <input type=submit value="Donate">
+        </form>
 		<form action="https://liqpay.com/?do=clickNbuy" method="post" target="_blank">
 			<input type="hidden" name="operation_xml" value="PHJlcXVlc3Q+Cgk8dmVyc2lvbj4xLjI8L3ZlcnNpb24+Cgk8cmVzdWx0X3VybD5odHRwOi8vY29k
 ZS5nb29nbGUuY29tL3AvdW5yZWFsc3BlY2N5cC88L3Jlc3VsdF91cmw+Cgk8c2VydmVyX3VybD5o
