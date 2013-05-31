@@ -3,22 +3,10 @@
   <ModulePrefs title="donate gadget" /> 
   <Content type="html">
     <![CDATA[
-		<form style="display:inline" method=POST action="https://liqpay.com/?do=clickNbuy">
-        	<input type=hidden name="preorder" value="8821fae630f7a1cc8930b4436d54856de2218209">
-	        <input type=submit value="Donate">
-        </form>
 		<form action="https://liqpay.com/?do=clickNbuy" method="post" target="_blank">
-			<input type="hidden" name="operation_xml" value="PHJlcXVlc3Q+Cgk8dmVyc2lvbj4xLjI8L3ZlcnNpb24+Cgk8cmVzdWx0X3VybD5odHRwOi8vY29k
-ZS5nb29nbGUuY29tL3AvdW5yZWFsc3BlY2N5cC88L3Jlc3VsdF91cmw+Cgk8c2VydmVyX3VybD5o
-dHRwOi8vY29kZS5nb29nbGUuY29tL3AvdW5yZWFsc3BlY2N5cC88L3NlcnZlcl91cmw+Cgk8bWVy
-Y2hhbnRfaWQ+aTEwMDc4MjkwNjE8L21lcmNoYW50X2lkPgoJPG9yZGVyX2lkPk9SREVSXzEyMzQ8
-L29yZGVyX2lkPgoJPGFtb3VudD41PC9hbW91bnQ+Cgk8Y3VycmVuY3k+VVNEPC9jdXJyZW5jeT4K
-CTxkZXNjcmlwdGlvbj51bnJlYWxfc3BlY2N5X3BvcnRhYmxlPC9kZXNjcmlwdGlvbj4KCTxkZWZh
-dWx0X3Bob25lPjwvZGVmYXVsdF9waG9uZT4KCTxwYXlfd2F5PjwvcGF5X3dheT4KPC9yZXF1ZXN0
-Pg==" />
-			<input type="hidden" name="signature" value="YcpV1fa+toj0mEAP3EjU6AboOME=" />
+        	<input type=hidden name="preorder" value="8821fae630f7a1cc8930b4436d54856de2218209">
 			<input type="image" src="http://unrealspeccyp.googlecode.com/svn/wiki/image/donate_liqpay.png" width="90" height="60" border="0" name="submit" alt="" title="" style="border: none; background: none;" />
-		</form>
+        </form>
 
 		<form action="https://www.moneybookers.com/app/payment.pl" method="post" target="_blank">
 			<input type="hidden" name="pay_to_email" value="djdron.freelance@gmail.com">
