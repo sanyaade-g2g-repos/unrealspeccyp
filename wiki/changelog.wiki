@@ -1,6 +1,10 @@
 #labels Featured,Phase-Support
 = Change Log =
 
+== Version 0.0.48 (android) ==
+  * authentic rubber keyboard view
+  * bugfix with ugly pixels on the view edges
+
 == Version 0.0.47 (google chrome NaCl) - on [https://chrome.google.com/webstore/detail/jfkpejkiedieehgdecgcjbmcbpihimmb Chrome Web Store] ==
   * arm chromebooks support added
   * mouse locking improved
