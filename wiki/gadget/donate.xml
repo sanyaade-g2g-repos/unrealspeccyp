@@ -4,7 +4,7 @@
   <Content type="html">
     <![CDATA[
 		<form action="https://liqpay.com/?do=clickNbuy" method="post" target="_blank">
-			<input type=hidden name="button" value="i1007829061">
+			<input type=hidden name="button" value="i8705768456">
 			<input type="image" src="http://unrealspeccyp.googlecode.com/svn/wiki/image/donate_liqpay.png" width="90" height="60" border="0" name="submit" alt="" title="" style="border: none; background: none;" />
         </form>
 
