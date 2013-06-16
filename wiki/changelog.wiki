@@ -1,5 +1,8 @@
 #labels Featured,Phase-Support
 = Change Log =
+== Version 0.0.49 (google chrome NaCl) - on [https://chrome.google.com/webstore/detail/jfkpejkiedieehgdecgcjbmcbpihimmb Chrome Web Store] ==
+  * mouse sensitivity improved
+  * experimental joystick (gamepad) support
 
 == Version 0.0.48 (android) ==
   * authentic rubber keyboard view
