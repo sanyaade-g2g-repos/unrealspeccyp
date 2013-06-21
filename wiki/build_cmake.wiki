@@ -1,6 +1,7 @@
-= Building Windows/Linux version using Cmake =
+#labels Featured,Phase-Support
+= Building Windows/Linux version using CMake =
 
-== For Windows Users additional preparation steps is required ==
+== For Windows Users additional preparation steps are required ==
 
   * Download & build [http://www.wxwidgets.org/downloads/ wxWidgets].
   * Prepare environment:
