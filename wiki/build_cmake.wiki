@@ -1,0 +1,26 @@
+= Building Windows/Linux version using Cmake =
+
+== For Windows Users additional preparation steps is required ==
+
+  * Download & build [http://www.wxwidgets.org/downloads/ wxWidgets].
+  * Prepare environment:
+{{{
+set WXWIN=<path to the wxWidgets root>
+}}}
+
+  * Download & install [http://connect.creativelabs.com/developer/Wiki/OpenAL%20SDK%20for%20Windows.aspx OpenAL SDK]:
+  * Prepare environment:
+{{{
+set OPENALDIR=<path to the OpenAL SDK root>
+}}}
+
+== Building ==
+
+ * checkout unreal speccy portable source code 
+{{{
+svn checkout http://unrealspeccyp.googlecode.com/svn/trunk usp
+cd usp\build\cmake
+mkdir build
+cd build
+cmake ..
+}}}
