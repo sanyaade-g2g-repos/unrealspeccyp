@@ -23,7 +23,7 @@ mingw32\mingw32env.cmd
 mingw32-make -f makefile.gcc SHARED=0 UNICODE=1 USE_OPENGL=1 USE_EXCEPTIONS=0 USE_HTML=0 USE_MEDIA=0 BUILD=release
 }}}
 
- * create folder "lib\gl\include\GL" and download this OpenGL extension header to it http://www.opengl.org/registry/api/wglext.h
+ * create folder "lib\gl\include\GL" and download this OpenGL extension header to it http://www.opengl.org/registry/api/GL/wglext.h
 
  * download and install OpenAL SDK: http://connect.creativelabs.com/openal/Downloads/OpenAL11CoreSDK.zip
  * create folder “lib\oal\include\AL” then copy contents of “include” folder from installed SDK to this folder. Also copy “libs” folder from installed SDK to “lib\oal” folder.
