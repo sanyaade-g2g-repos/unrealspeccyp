@@ -24,7 +24,7 @@ mingw32-make -f makefile.gcc SHARED=0 UNICODE=1 USE_OPENGL=1 USE_EXCEPTIONS=0 US
 }}}
 
  * download and install OpenAL SDK: http://connect.creativelabs.com/openal/Downloads/OpenAL11CoreSDK.zip
- * create folder “lib\oal\include\AL” then copy contents of “include” folder from installed SDK to this folder. Also copy “libs” folder from installed SDK to “lib\oal” folder.
+ * create folder “lib\oal” then copy “include” folder from installed SDK to this folder. Also copy “libs” folder from installed SDK to “lib\oal” folder.
 
  * checkout unreal speccy portable source code to the folder near “lib” folder
 {{{
