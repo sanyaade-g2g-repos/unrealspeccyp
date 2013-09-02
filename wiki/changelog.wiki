@@ -1,5 +1,16 @@
 #labels Featured,Phase-Support
 = Change Log =
+== Version 0.0.50 (windows) ==
+  * .fdi file format support
+  * .rzx replays support
+  * gamepad support
+  * auto play files option
+  * reset to service rom option
+  * mouse sensivity improved
+  * true rom in 48k mode
+  * memory leaks, uninitialized vars, etc. fixed
+  * fixed crash when r/w beyond of disk image
+
 == Version 0.0.49 (google chrome NaCl) - on [https://chrome.google.com/webstore/detail/jfkpejkiedieehgdecgcjbmcbpihimmb Chrome Web Store] ==
   * mouse sensitivity improved
   * experimental joystick (gamepad) support (look at [readme_chrome] for more info)
