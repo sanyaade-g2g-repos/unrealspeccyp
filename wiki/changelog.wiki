@@ -1,5 +1,9 @@
 #labels Featured,Phase-Support
 = Change Log =
+== Version 0.0.51 (android) ==
+  * VTRDOS source updated (games & demos sections)
+  * Reset to service ROM option added
+
 == Version 0.0.50 (windows) ==
   * .fdi file format support
   * .rzx replays support
