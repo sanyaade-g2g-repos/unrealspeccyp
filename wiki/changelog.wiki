@@ -1,5 +1,16 @@
 #labels Featured,Phase-Support
 = Change Log =
+== Version 0.0.52 (symbian s60v3) ==
+  * .fdi file format support
+  * rzx replays support
+  * auto play files option
+  * reset to service rom option
+  * true rom in 48k mode
+  * memory leaks, uninitialized vars, etc. fixed
+  * fixed crash when r/w beyond of disk image
+  * bugfixes with snapshots loading
+You need to install Open C++ plugin (read [readme_symbian] for more info)
+
 == Version 0.0.51 (android) ==
   * VTRDOS source updated (games & demos sections)
   * Reset to service ROM option added
