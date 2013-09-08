@@ -33,6 +33,11 @@ cd ../sdks/
 ./install_gnupoc_s60_32 ../../S60_3rd_Edition_SDK_Feature_Pack_2_v1_1_en.zip ~/symbian-sdks/s60_32
 }}}
 
+[http://developer.nokia.com/info/sw.nokia.com/id/91d89929-fb8c-4d66-bea0-227e42df9053/Open_C_SDK_Plug-In.html Download] & install Open C/C++ Plug-in
+{{{
+./install_openc_175_s60 ../../s60_open_c_cpp_plug_in_v1_7_en.zip ~/symbian-sdks/s60_32
+}}}
+
 Install build wrapper helper & prepare environment:
 {{{
 ./install_wrapper ~/gnupoc
