@@ -12,7 +12,7 @@ Keys in emul:
 
 For holding key in virtual keyboard, focus it and press '#'.
 
-You need to install [http://code.google.com/p/unrealspeccyp/source/browse/wiki/redist/Symbian/s60v3/pips_s60_1_7_ss.sis Open C++ plugin].
+You need to install [http://unrealspeccyp.googlecode.com/svn/wiki/redist/Symbian/s60v3/pips_s60_1_7_ss.sis Open C++ plugin].
 
 ==Version for S60v5, Symbian^^1^, Symbian^^3^ devices==
 Version for touch-screen phones requires installation of [http://qt.nokia.com Qt framework].
