@@ -1,7 +1,7 @@
 #labels Phase-Implementation,Phase-Deploy,Featured
 = Building Qt version (windows, linux, mac, symbian touch) =
 
-Download [http://qt.nokia.com/downloads Nokia Qt SDK].
+Download [http://developer.nokia.com/info/sw.nokia.com/id/da8df288-e615-443d-be5c-00c8a72435f8/Qt_SDK.html Nokia Qt SDK].
 
 When installing it, select required components (desktop, mobile platforms, toolchains, etc).
 
