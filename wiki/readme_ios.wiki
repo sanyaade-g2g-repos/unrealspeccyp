@@ -8,6 +8,7 @@ Here is a testing version for iPad's (3 and higher) - see issue 49.
 Note: there is "True Speed" option like in desktop version. If you really want smooth scrollers on 60Hz iPad screen, you can disable "True Speed" option. But the sound will be ~20% faster.
 
 =Installation=
+ * Jailbreak your device.
  * Unpack it to /Applications folder on device (under root user).
  * Run 'uicache' under 'mobile' user.
  * Place ROMs to /User/Documents folder (for 'mobile' user).
