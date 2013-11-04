@@ -9,8 +9,9 @@ Note: there is "True Speed" option like in desktop version. If you really want s
 
 =Installation=
  * Jailbreak your device.
- * type dpkg -i unreal-speccy-portable`*`.deb (under root user).
- * Run 'uicache' under 'mobile' user.
+ * scp ./unreal-speccy-portable`*`.deb root@<iphone ip>:/var/root
+ * ssh as root and type dpkg -i ./unreal-speccy-portable`*`.deb.
+ * Run 'uicache' from 'mobile' user.
  * Place ROMs to /User/Documents folder (for 'mobile' user).
  * Enjoy!
 
