@@ -1,0 +1,15 @@
+#labels Featured,Phase-Support
+= Building wxWidgets version for Mac =
+
+[https://sourceforge.net/projects/wxwindows/files/3.0.0/wxWidgets-3.0.0.tar.bz2/download Download] wxWidgets library.
+Extract archive and build it.
+{{{
+./configure --enable-monolithic --disable-shared
+make
+}}}
+
+[http://code.google.com/p/unrealspeccyp/source/checkout Checkout] source code near extracted wxWidgets folder.
+
+Open project file unreal_speccy_portable/build/mac/usp.xcodeproj in Xcode.
+
+Press Run button.
