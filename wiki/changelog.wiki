@@ -1,5 +1,14 @@
 #labels Featured,Phase-Support
 = Change Log =
+== Version 0.0.54 (google chrome NaCl) - on [https://chrome.google.com/webstore/detail/jfkpejkiedieehgdecgcjbmcbpihimmb Chrome Web Store] ==
+  * [http://rzxarchive.co.uk RZX Archive] support
+  * games & demos sections updated in [http://vtrdos.ru VTRDos]
+
+== Version 0.0.53 (iOS) ==
+  * used custom ui
+  * GLESv2 video acceleration
+  * OpenAL audio
+
 == Version 0.0.52 (symbian s60v3) ==
   * .fdi file format support
   * rzx replays support
