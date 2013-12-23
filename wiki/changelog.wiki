@@ -1,5 +1,11 @@
 #labels Featured,Phase-Support
 = Change Log =
+== Version 0.0.55 (android) ==
+  * russian localization added
+  * .szx snapshots support
+  * more .rzx replays supported (with .szx snapshots inside)
+  * bugfix with encoding conversion when getting url's from VTRDOS/games
+
 == Version 0.0.54 (google chrome NaCl) - on [https://chrome.google.com/webstore/detail/jfkpejkiedieehgdecgcjbmcbpihimmb Chrome Web Store] ==
   * [http://rzxarchive.co.uk RZX Archive] support
   * games & demos sections updated in [http://vtrdos.ru VTRDos]
