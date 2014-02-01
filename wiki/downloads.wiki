@@ -11,6 +11,9 @@
 == iOS ==
 [https://unrealspeccyp.googlecode.com/svn/wiki/downloads/unreal-speccy-portable_0.0.53_ios.deb iOS 6.0 and higher version 0.0.53]
   * iPhone 3GS, iPad 2 and higher supported
+  * used custom ui
+  * GLESv2 video acceleration
+  * OpenAL audio
   * for more detailed info look [readme_ios here]
 
 == Symbian ==
