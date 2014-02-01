@@ -1,0 +1,71 @@
+#labels Featured,Phase-Support
+= Downloads =
+
+== Android ==
+[https://unrealspeccyp.googlecode.com/svn/wiki/downloads/unreal-speccy-portable_0.0.55_android.apk.apk Android version 0.0.55]
+  * russian localization added
+  * .szx snapshots support
+  * more .rzx replays supported (with .szx snapshots inside)
+  * bugfix with encoding conversion when getting url's from VTRDOS/games
+
+== iOS ==
+[https://unrealspeccyp.googlecode.com/svn/wiki/downloads/unreal-speccy-portable_0.0.53_ios.deb iOS 6.0 and higher version 0.0.53]
+  * iPhone 3GS, iPad 2 and higher supported
+  * for more detailed info look [readme_ios here]
+
+== Symbian ==
+[https://unrealspeccyp.googlecode.com/svn/wiki/downloads/unreal-speccy-portable_0.0.52_s60v3.sis Symbian s60 3rd edition (9.1-9.3) version 0.0.52]
+  * .fdi file format support
+  * rzx replays support
+  * auto play files option
+  * reset to service rom option
+  * true rom in 48k mode
+  * memory leaks, uninitialized vars, etc. fixed
+  * fixed crash when r/w beyond of disk image
+  * bugfixes with snapshots loading
+You need to install Open C++ plugin (look into [readme_symbian] for more info)
+
+[https://unrealspeccyp.googlecode.com/svn/wiki/downloads/unreal-speccy-portable_0.0.26_s60v5.sis Symbian S60 5th edition (9.4), Symbian^1, Symbian^3 version 0.0.26 with touch screens support]
+  * First touch-screen Symbian devices support launch.
+You'll need to install appropriate Qt libraries (look into [readme_symbian] for more info)
+
+== WIndows ==
+[https://unrealspeccyp.googlecode.com/svn/wiki/downloads/unreal-speccy-portable_0.0.50_win32.msi Windows version 0.0.50]
+  * .fdi file format support
+  * .rzx replays support
+  * gamepad support
+  * auto play files option
+  * reset to service rom option
+  * mouse sensivity improved
+  * true rom in 48k mode
+  * memory leaks, uninitialized vars, etc. fixed
+  * fixed crash when r/w beyond of disk image
+
+== Raspberry Pi ==
+[https://unrealspeccyp.googlecode.com/svn/wiki/downloads/unreal-speccy-portable_0.0.43_rpi.zip Raspberry Pi version 0.0.43]
+  * native GLES v2 render with indexed textures & uber-shader ;)
+  * SDL for keyboard input & sound
+  * files sorting in open file dialog
+  * select last opened file
+Read [readme_rpi] for correct 50 Hz video mode setup on TV
+
+== Dingoo ==
+[https://unrealspeccyp.googlecode.com/svn/wiki/downloads/unreal-speccy-portable_0.0.40_dingoo.zip Dingoo version 0.0.40]
+  * perfect vsync, including ILI9338
+  * menu & list cycling
+  * fixed some bugs with sound
+
+== PSP ==
+[https://unrealspeccyp.googlecode.com/svn/wiki/downloads/unreal-speccy-portable_0.0.38_psp.zip PSP version 0.0.38]
+  * for installation just unpack archive contents to PSP/GAME folder
+  * place data files into images folder
+
+== OSX ==
+[https://unrealspeccyp.googlecode.com/svn/wiki/downloads/unreal-speccy-portable_0.0.17_i386.dmg Intel Mac (OS X 10.4-10.6) version 0.0.17]
+
+== Linux ==
+[https://unrealspeccyp.googlecode.com/svn/wiki/downloads/unreal-speccy-portable_0.0.16_amd64.deb Linux 64-bit Ubuntu & Debian version 0.0.16]
+[https://unrealspeccyp.googlecode.com/svn/wiki/downloads/unreal-speccy-portable_0.0.15_i386.deb Linux 32-bit Ubuntu & Debian version 0.0.15]
+
+----
+Old [https://code.google.com/p/unrealspeccyp/downloads/list Downloads] page (unsupported by Google now)
