@@ -1,5 +1,13 @@
 #labels Featured,Phase-Support
 = Change Log =
+== Version 0.0.56 (OSX) ==
+  * wxWidgets 3.0.0 used
+  * all latest features included
+  * window size/position stored
+  * AY/YM option
+  * sound chip stereo option
+  * zoom/filtering option
+
 == Version 0.0.55 (android) ==
   * russian localization added
   * .szx snapshots support
