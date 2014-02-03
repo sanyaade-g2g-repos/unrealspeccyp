@@ -1,8 +1,17 @@
 #labels Featured,Phase-Support
 = Downloads =
 
+== OSX ==
+[https://unrealspeccyp.googlecode.com/svn/wiki/downloads/unreal-speccy-portable_0.0.56.dmg Intel Mac (OS X 10.8 and higher) version 0.0.56]
+  * wxWidgets 3.0.0 used
+  * all latest features included
+  * window size/position stored
+  * AY/YM option
+  * sound chip stereo option
+  * zoom/filtering option
+
 == Android ==
-[https://unrealspeccyp.googlecode.com/svn/wiki/downloads/unreal-speccy-portable_0.0.55_android.apk.apk Android version 0.0.55]
+[https://unrealspeccyp.googlecode.com/svn/wiki/downloads/unreal-speccy-portable_0.0.55_android.apk Android version 0.0.55]
   * russian localization added
   * .szx snapshots support
   * more .rzx replays supported (with .szx snapshots inside)
@@ -62,9 +71,6 @@ Read [readme_rpi] for correct 50 Hz video mode setup on TV
 [https://unrealspeccyp.googlecode.com/svn/wiki/downloads/unreal-speccy-portable_0.0.38_psp.zip PSP version 0.0.38]
   * for installation just unpack archive contents to PSP/GAME folder
   * place data files into images folder
-
-== OSX ==
-[https://unrealspeccyp.googlecode.com/svn/wiki/downloads/unreal-speccy-portable_0.0.17_i386.dmg Intel Mac (OS X 10.4-10.6) version 0.0.17]
 
 == Linux ==
 [https://unrealspeccyp.googlecode.com/svn/wiki/downloads/unreal-speccy-portable_0.0.16_amd64.deb Linux 64-bit Ubuntu & Debian version 0.0.16]
