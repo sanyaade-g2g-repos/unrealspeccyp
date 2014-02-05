@@ -76,6 +76,3 @@ Read [readme_rpi] for correct 50 Hz video mode setup on TV
 [https://unrealspeccyp.googlecode.com/svn/wiki/downloads/unreal-speccy-portable_0.0.16_amd64.deb Linux 64-bit Ubuntu & Debian version 0.0.16]
 
 [https://unrealspeccyp.googlecode.com/svn/wiki/downloads/unreal-speccy-portable_0.0.15_i386.deb Linux 32-bit Ubuntu & Debian version 0.0.15]
-
-----
-Old [https://code.google.com/p/unrealspeccyp/downloads/list Downloads] page (unsupported by Google now)
