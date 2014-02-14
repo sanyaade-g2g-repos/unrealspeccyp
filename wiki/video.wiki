@@ -1,5 +1,3 @@
 #labels Phase-Support
-|| <wiki:gadget url="http://unrealspeccyp.googlecode.com/svn/wiki/gadget/video1.xml" width="640" height="360" /> ||
-|| <wiki:gadget url="http://unrealspeccyp.googlecode.com/svn/wiki/gadget/video2.xml" width="640" height="360" /> ||
-|| <wiki:gadget url="http://unrealspeccyp.googlecode.com/svn/wiki/gadget/video4.xml" width="640" height="360" /> ||
-|| <wiki:gadget url="http://unrealspeccyp.googlecode.com/svn/wiki/gadget/video3.xml" width="640" height="360" /> ||
+|| <wiki:video url="http://www.youtube.com/watch?v=BZA7hvlSY5A" /> |||| <wiki:video url="http://www.youtube.com/watch?v=emVRo4nDe3w" /> ||
+|| <wiki:video url="http://www.youtube.com/watch?v=7T1SSIQXq-4" /> |||| <wiki:video url="http://www.youtube.com/watch?v=IKLyuwQYxeM" /> ||
