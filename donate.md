@@ -1,0 +1,1 @@
+&lt;wiki:gadget url="http://unrealspeccyp.googlecode.com/svn/wiki/gadget/donate.xml" width="200" height="300" border="0" /&gt;
